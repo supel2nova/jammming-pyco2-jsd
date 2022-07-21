@@ -1,4 +1,15 @@
-# Jammming ( function component )
+**<h1 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Jammming ( function component ) <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>** 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/supel2nova/jammming-pyco2-jsd/main/public/imgrd.png" width="700" height="500"/>
+</div>
+
+<div align="center">
+<p align="center">
+    <p>Jammming codecademy</p>
+    <a target="_blank" href="http://jammming-pyco2.surge.sh/"><img src="https://img.shields.io/badge/DEMO-Link-blue?style=for-the-badge"></a>
+  </p>
+  </div>
 
 ## Install
 
@@ -12,11 +23,6 @@ npm install
 npm run dev
 ```
 
-## Build
-
-```sh
-npm run build
-```
 
 ## [View in codecademy](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-capstone/modules/jammming-capstone/projects/jammming-prj)
 
